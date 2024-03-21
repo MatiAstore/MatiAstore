@@ -13,7 +13,7 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/matias-astore-0aa6a8271/
-[instagram]:https://www.instagram.com/matias_astore/
+
 
 ### Lenguajes y Herramientas que utilizo:
 
