@@ -24,4 +24,5 @@ __Generales:__
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
+<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fes%2Ficono%2Fdjango-original-logo%2F146559&psig=AOvVaw1oLZxRJLsMRv-Pj6hR0iZ1&ust=1711118350063000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPimit3KhYUDFQAAAAAdAAAAABAE" width="30" height="30"/>
 <br /> 
