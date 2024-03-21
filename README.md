@@ -9,11 +9,11 @@
 
 ### Contactame!:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png"/>][instagram]
 <br />
 
 [linkedin]: https://www.linkedin.com/in/matias-astore-0aa6a8271/
-
+[instagram]:https://www.instagram.com/matias_astore/
 
 ### Lenguajes y Herramientas que utilizo:
 
