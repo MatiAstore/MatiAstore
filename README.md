@@ -1,6 +1,13 @@
-### ¡Hola a todos! Mi nombre es Matias Astore
+## ¡Hola a todos! Mi nombre es Matias Astore
 
 ### Soy un estudiante avanzado de Ingeneria en Computacion 
+¡Hola! Soy Matías Astore, un estudiante de Ingeniería en Computación en el último año de mi carrera. A lo largo de este camino universitario, he acumulado una amplia gama de conocimientos que van desde los fundamentos de la electrónica hasta la programación. Mi fascinación por la informática y la tecnología me ha llevado a explorar diversas áreas dentro de mi carrera. A medida que avanzaba, descubrí que mi verdadera pasión reside en el mundo de la programación. 
+
+Consciente de la constante evolución del campo de la tecnología, estoy comprometido a seguir aprendiendo y creciendo profesionalmente. Por eso, he optado por participar en cursos y proyectos que amplíen mis habilidades y me mantengan al día con las últimas tendencias y herramientas en el ámbito de la programación.
+
+Mi objetivo es convertirme en un desarrollador de software altamente capacitado y contribuir al desarrollo de soluciones tecnológicas. Estoy emocionado por las oportunidades que el mundo de la tecnología tiene para ofrecer y estoy dedicado a seguir persiguiendo el aprendizaje y la excelencia en mi carrera profesional.
+
+Actualmente, estoy en busca de oportunidades laborales que me permitan no solo adquirir nuevos conocimientos y afianzar lo aprendido durante mi carrera de Ingeniería en Computación, sino también para obtener experiencia práctica en un entorno profesional. Estoy entusiasmado por contribuir con mis habilidades y crecer profesionalment.
 
 ### Mis estadisticas son:  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiAstore&show_icons=true&theme=radical)
